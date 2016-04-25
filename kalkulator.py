@@ -11,6 +11,7 @@
 
 def kalkulator():
     print("kalkulator")
+    print("kalkulator2")
 
 kalkulator()
 
